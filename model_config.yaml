@@ -1,0 +1,9 @@
+path: C:\Users\kairu\OneDrive\Documents\GitHub\waste-object-recognition\data\waste-dataset\ 
+train: Images_of_Waste\images
+val: Images_of_Waste\images
+
+names:
+  0: Aluminum Can 
+  1: Glass Bottles
+  2: PET Bottles 
+  3: HDPE Milk Bottles
